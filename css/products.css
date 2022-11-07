@@ -1,0 +1,384 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  
+  html {
+  }
+  
+  .body {
+    font-family: "Roboto Condensed", sans-serif;
+  }
+ 
+  .login p {
+    margin-top: 34px;
+    color: rgb(230, 230, 230);
+    font-size: 14px;
+    font-family: "Roboto Condensed", sans-serif;
+  }
+  
+  .logo {
+    padding: 13px;
+  }
+  
+  .logo1 img {
+    width: 100%;
+  }
+  
+  .logo img {
+    width: 61px;
+  }
+  
+  .icon {
+    float: right;
+  }
+  
+  .nav {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(211, 211, 211);
+    font-family: "Roboto Condensed", sans-serif;
+  }
+  
+  .nav ul {
+    position: absolute;
+    top: 0;
+    left: 35%;
+  }
+  
+  .nav ul li {
+    float: left;
+    list-style: none;
+    margin-left: 20px;
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 16px;
+    margin-top: 15px;
+  }
+  
+  .nav ul li a {
+    text-decoration: none;
+    color: black;
+  }
+  .icon ul li {
+    float: left;
+    list-style: none;
+    margin-right: 20px;
+  }
+  
+  .giohang {
+    font-weight: 600;
+    margin-left: 120px;
+    font-family: "Roboto Condensed", sans-serif;
+  }
+  
+  .giohang ul li {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+  }
+  
+  .chuyen {
+    font-family: "Roboto Condensed", sans-serif;
+    margin-top: 20px;
+  }
+  
+  .chuyen span {
+    color: rgb(150, 148, 148);
+  }
+  
+  .thutu {
+    float: right;
+  }
+  
+  .thutu ul li {
+    float: left;
+    list-style: none;
+    margin-left: 10px;
+  }
+  
+  .thutu ul li select {
+    width: 200px;
+    height: 40px;
+  }
+  
+  .serch {
+    position: relative;
+  }
+  
+  .serch input {
+    padding: 5px 20px;
+    width: 270px;
+  }
+  
+  .serch button {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding: 5px 20px;
+    background-color: black;
+    color: white;
+  }
+  
+  .list-group {
+    width: 270px;
+  }
+  
+  .list-group .active {
+    background-color: black;
+  }
+  
+  .sanpham {
+    float: left;
+    margin-left: 40px;
+    margin-top: 40px;
+    width: 235px;
+    height: 320px;
+    position: relative;
+  }
+  
+  .sanpham img {
+    width: 100%;
+  }
+  
+  .text {
+    padding: 4px;
+    font-family: "Roboto Condensed", sans-serif;
+  }
+  
+  .spnoibat {
+    font-family: "Roboto Condensed", sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .owl-carousel .owl-dots.disabled,
+  .owl-carousel .owl-nav.disabled {
+    display: block;
+    position: relative;
+  }
+  
+  .aria-label {
+    width: 300px;
+  }
+  
+  .owl-prev {
+    position: absolute;
+    top: 75px;
+    left: 10px;
+    opacity: 0.4;
+  }
+  
+  .owl-next {
+    position: absolute;
+    top: 75px;
+    right: 20px;
+    opacity: 0.4;
+  }
+  
+  .spnoibat p {
+    width: 30px;
+    height: 2px;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  .fo ul li {
+    margin-top: 15px;
+    list-style: none;
+    font-size: 13px;
+  }
+  
+  .fo img {
+    width: 100px;
+  }
+  
+  .fo ul li i {
+    margin-left: 14px;
+    border: solid 1px gray;
+    padding: 10px;
+    border-radius: 100%;
+  }
+  
+  .fo ul li p {
+    color: rgb(163, 163, 163);
+  }
+  
+  .fo ul li input {
+    padding: 13px 10px;
+    width: 250px;
+    border: none;
+    border-radius: 20px;
+  }
+  
+  .fo ul li a {
+    position: absolute;
+    top: 83px;
+    right: 40px;
+    color: black;
+  }
+  
+  .now2 {
+    width: 100%;
+    height: 300px;
+    background-color: rgb(243, 243, 243);
+    position: relative;
+  }
+  
+  /* ----------------------------- */
+  
+  .spchitiet {
+    position: relative;
+  }
+  
+  .spchitiet img {
+    width: 100%;
+  }
+  
+  .thongtinsp ul li {
+    list-style: none;
+  }
+  
+  .thongtinsp ul li p {
+    width: 45px;
+    height: 3px;
+    background-color: rgb(177, 177, 177);
+  }
+  
+  .gu img {
+    width: 50%;
+  }
+  
+  .size select {
+    width: 240px;
+    height: 40px;
+    border-radius: 5px;
+    padding: 5px;
+  }
+  
+  .soluong1 input {
+    width: 80px;
+    height: 40px;
+    padding: 20px;
+  }
+  
+  .soluong1 button {
+    padding: 9px 20px;
+    border: none;
+    background-color: black;
+    color: blanchedalmond;
+  }
+  
+  .thanhtoan ul li {
+    float: left;
+    list-style: none;
+  }
+  
+  .thanhtoan ul li img {
+    width: 90px;
+  }
+  .binh-luan ul li {
+    list-style: none;
+  }
+.product-content{
+  width:100%;
+}
+.product-content-left{
+    width: 45%;
+}  
+.len{
+  width: 5%;
+}
+.product-content-right{
+    width: 50%;
+}
+.product-content-left-big-img{
+    width: 80%;
+    padding-right: 20px;
+}
+.product-content-left-big-img img{
+    width: 100%;
+}
+.product-content-left-small-img{
+    width: 20%;
+}
+.product-content-left-small-img img{
+    width: 100%;
+    opacity: 0.6;
+    transition: 0.6s;
+}
+.product-content-left-small-img img:hover{
+  opacity:1;
+}
+.product-content-right{
+    width:50%;
+    padding-left:20px;  
+}
+.product-content-right-product-name{
+  font-family: var(--main-text-font);
+  font-size: 16px;
+}
+.product-content-right-product-name p{
+  color: #cccccc;
+  font-size: 12px;
+}
+.product-content-right-product-price{
+  margin: 12px 0;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: var(--main-text-font);
+}
+.product-content-right-product-button button{
+  display: block;
+  margin: 20px 0 12px;
+  transition: all 0.3s ease;
+}
+.product-content-right-product-button button:first-child{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 2px solid black;
+  cursor: pointer;
+}
+.product-content-right-product-button button:first-child:hover{
+  background-color: #414040;
+  color: #7a7979;
+}
+.bottom{
+  padding-top: 40px;
+  border-top: 1px solid #dddddd;
+  position: relative;
+}
+.bottom-top{
+  position:absolute;
+  width: 30px;
+  height: 30px;
+  border: 2px solid #dddddd;
+  background-color: #ffff;
+  border-radius: 50%;
+  align-items:center;
+  justify-content: center;
+  display: flex;
+  margin-top:-55px;
+  margin-left: 50%;
+  transform:translateX(-50%);
+}
+.bottom-content-title{
+  border-bottom: 2px solid #dddddd;
+}
+.title-item{
+  padding: 6px;
+  cursor: pointer;
+  margin-right: 6px;
+}
+.title-item p{
+  font-family: var(--main-text-font);
+  font-size: 12px;
+}
+.bottom-content{
+  padding-top: 30px;
+  font-family: var(--main-text-font);
+  font-size: 12px;
+}
+.activeA{
+  display: none;
+}
